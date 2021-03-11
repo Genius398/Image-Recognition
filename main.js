@@ -29,7 +29,7 @@ function check(){
 function gotResult(error, results){ 
     if (error)
     {
-        console.error(error);
+        console.error(hello);
     }
     else
     {
